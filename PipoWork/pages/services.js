@@ -75,7 +75,7 @@
         <div id="iczxii" class="gjs-cell">
             <div class="container py-5">
                 <div class="row">
-                    <div class="col-6 col-md-2 mb-3">
+                    <div class="col-6 col-md-3 mb-3">
                         <ul class="nav flex-column">
                             <li class="nav-item mb-2"></li>
                             <li class="nav-item mb-2">
@@ -86,7 +86,7 @@
                             <li class="nav-item mb-2"></li>
                         </ul>
                     </div>
-                    <div class="col-6 col-md-2 mb-3">
+                    <div class="col-6 col-md-3 mb-3">
                         <h5>Section</h5>
                         <ul class="nav flex-column">
                             <li class="nav-item mb-2">
