@@ -1,8 +1,9 @@
 
             var services = { 
               template: `
-              <body id="izygyt">
-    <div class="navbar navbar-expand-lg fixed-top">
+              <body>
+              <div id="izygyt">
+              <div class="navbar navbar-expand-lg fixed-top">
         <div class="container-fluid"><button type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" class="navbar-toggler"><span
                     class="navbar-toggler-icon"></span></button>
@@ -26,7 +27,6 @@
         <div class="gjs-cell"></div>
     </div>
     <div id="i56uuj"><span
-            data-metadata="<!--(figmeta)eyJmaWxlS2V5Ijoia01ZdUk0R3dUd2hhUUdUV016UWtaYiIsInBhc3RlSUQiOjExMjQ5MzMzMTQsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)-->"></span><span
             id="ip7ilf">Comprehensive Plumbing
             Services for Your Need</span></div>
     <div id="i11vgq" class="gjs-row">
@@ -69,6 +69,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
     <div id="ik50nk" class="gjs-row">
         <div id="iczxii" class="gjs-cell">
